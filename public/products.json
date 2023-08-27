@@ -8,6 +8,7 @@
         "ratings": 4,
         "ratingsCount": 3725,
         "img": "https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1812&q=80",
+        "img2":"../../../images/circle logo.png",
         "shipping": 1,
         "quantity": 0
     },
@@ -20,6 +21,7 @@
         "ratings": 5,
         "ratingsCount": 4355,
         "img": "https://images.unsplash.com/photo-1523800503107-5bc3ba2a6f81?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1780&q=80",
+        "img2":"../../../images/1.png",
         "shipping": 14,
         "quantity": 0
     },
@@ -32,6 +34,7 @@
         "ratings": 4,
         "ratingsCount": 3972,
         "img": "https://images.unsplash.com/photo-1537432376769-00f5c2f4c8d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1925&q=80",
+        "img2":"../../../images/2.png",
         "shipping": 1,
         "quantity": 0
     },
@@ -45,6 +48,7 @@
         "ratings": 5,
         "ratingsCount": 1764,
         "img": "https://images.unsplash.com/photo-1521185496955-15097b20c5fe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1950&q=80",
+        "img2":"../../../images/3.png",
         "shipping": 32,
         "quantity": 0
     }
