@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import Blog from '../Blog/Blog';
 
 const Article = () => {
         const [blogs,setBlogs] = useState([]);
@@ -11,11 +12,9 @@ const Article = () => {
     
     return (
         <div>
-            <article>
                {
-                blogs.map(blog =><p>{blog.title}</p>)
+                blogs.map(blog => <Blog contents ={blog} ></Blog>)
                }
-            </article>
         </div>
     );
 };
